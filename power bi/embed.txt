@@ -1,0 +1,9 @@
+link: https://app.powerbi.com/groups/65b7a2a5-6b28-43bc-a10d-45c8d03d694b/reports/3f955d32-1c32-4863-9cf9-ee132808eb16/ReportSection?redirectedFromSignup=1
+report id: 3f955d32-1c32-4863-9cf9-ee132808eb16
+group id: 65b7a2a5-6b28-43bc-a10d-45c8d03d694b
+
+embed url: https://app.powerbi.com/reportEmbed?reportId=3f955d32-1c32-4863-9cf9-ee132808eb16&groupId=65b7a2a5-6b28-43bc-a10d-45c8d03d694b
+Embed Token: 
+
+domínio: witorsathersq.onmicrosoft.com
+user: witorsather@witorsathersq.onmicrosoft.com
